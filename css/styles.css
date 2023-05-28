@@ -569,7 +569,7 @@ button {
   transform: scale(1.1);
 }
 
-.giticon-send {
+.icon-send {
   fill: var(--white-color);
   height: 24px;
   width: 24px;
